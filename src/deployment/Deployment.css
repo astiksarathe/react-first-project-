@@ -1,0 +1,14 @@
+.deploy__btn{
+  border: 1px solid grey;
+}
+.deploy__btn-active{
+    background-color: #fff;
+    border: 1px solid grey;
+    border-bottom: none;
+
+}
+.deploy__container{
+    box-sizing: border-box;
+    padding: 1rem;
+    border:1px solid grey
+}

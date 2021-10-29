@@ -1,0 +1,16 @@
+.main_heading-deployment {
+  width: fit-content;
+  margin: 1rem auto;
+}
+
+.audit__grid {
+  display: grid;
+  grid-template-columns: 32.5% 32.5% 32.5%;
+  column-gap: 0.7rem;
+  min-height: 17rem;
+}
+
+.audit_btn{
+    margin: 1rem 0rem 0rem 1rem;
+    float: right;
+}

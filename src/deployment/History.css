@@ -1,0 +1,12 @@
+.main_heading-deployment{
+    width: fit-content;
+  margin: 1rem auto;
+}
+.link_container{
+display: grid;
+justify-content: end;
+}
+.deployment_history__link{
+    color:#7aaeda;
+    cursor: pointer;
+}
